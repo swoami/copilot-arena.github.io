@@ -29,7 +29,6 @@ python -m http.server 8000
 ## File Structure Conventions
 
 ```
-my-cv-site/
   index.html        # Single-page site
   styles.css        # All styles (or split into sections)
   script.js         # Optional: smooth scroll, animations
